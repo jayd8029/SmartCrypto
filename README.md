@@ -1,4 +1,6 @@
 # SmartCrypto
+# This repo is in support mode and no longer being developed or maintained. For better support consider trying out https://github.com/kdschlosser/samsungctl
+<br><br>
 SmartView2 Handshake API implementation in pure python3 with example of how to use handshake to send commands
 
 Samsung Smart TV H/J (2014/2015) models SmartView2 Crypto Handshake C/Python implementation.
